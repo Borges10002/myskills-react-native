@@ -1,0 +1,8 @@
+biblioteca de splash
+https://github.com/crazycodeboy/react-native-splash-screen
+
+
+public na play store 
+  https://reactnative.dev/docs/signed-apk-android
+    keytool -genkeypair -v -storetype PKCS12 -keystore my-upload-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
+
